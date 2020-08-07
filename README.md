@@ -13,10 +13,10 @@
 ## Usage
 #### Linux:
 ```bash
-# Устоновка репозитария
+# Установка репозитория
 $ git clone https://github.com/Ferius057/Spam-Comments-VK-User.git
 
-# Перейти в репозитарий
+# Перейти в репозиторий
 $ cd Spam-Comments-VK-User
 
 # Устоновка прав
