@@ -77,7 +77,7 @@ public class ScriptRun extends Menu {
         Scanner captchaSc = new Scanner(System.in);
         try {
             System.out.println(COLOR_PURPLE + "Напиши в id страницы \"" + COLOR_RED + "100" + COLOR_PURPLE + "\" для выхода в главное меню.");
-            System.out.print(COLOR_GREEN + "Поставь в начале \"-\" и id сообщество(для спама в посте сообщества).\nВведи id страницы где будет проводится спам {0 - твоя страница}: ");
+            System.out.print(COLOR_GREEN + "Поставь в начале \"-\" и id сообщество(для спама в посте сообщества).\nВведи id страницы/группы где будет проводится спам {0 - твоя страница}: ");
             comIdStr = comIdStrSc.nextInt();
             if (comIdStr == 100) {
                 System.out.println(COLOR_BLACK + "--------------------------------------------------------------------------");
