@@ -5,7 +5,6 @@ import com.vk.api.sdk.client.actors.UserActor;
 import com.vk.api.sdk.httpclient.HttpTransportClient;
 
 public class Connection {
-    /*  Подключение к Vk Api  */
     public String VK_KEY;
     public int USER_ID;
     public VkApiClient vk;
