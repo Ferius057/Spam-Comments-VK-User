@@ -53,6 +53,6 @@ public class Menu extends Connection {
     }
 
     public void github() {
-        System.out.println(COLOR_YELLOW + "https://github.com/Ferius057/Spam-Comments-VK_User.");
+        System.out.println(COLOR_YELLOW + "https://github.com/Ferius057/Spam-Comments-VK-User.");
     }
 }
