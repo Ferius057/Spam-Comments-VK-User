@@ -1,5 +1,6 @@
 # Spam Comments VK «‎от пользователя»‎
 ## Requirements
+- **Linux** or ~~Windows~~
 - Токен от страницы пользователя
 - Java
 - Maven
