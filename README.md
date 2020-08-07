@@ -12,10 +12,10 @@
 #### Linux:
 ```bash
 # Устоновка репозитария
-$ git clone https://github.com/Ferius057/Spam-Comments-VK_User.git
+$ git clone https://github.com/Ferius057/Spam-Comments-VK-User.git
 
 # Перейти в репозитарий
-$ cd Spam-Comments-VK_User
+$ cd Spam-Comments-VK-User
 
 # Устоновка прав
 $ chmod +x start.sh
