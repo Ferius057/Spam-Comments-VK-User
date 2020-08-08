@@ -26,9 +26,7 @@ $ chmod +x start.sh
 $ ./start.sh
 ```
 #### Windows:
-```
-Скоро...
-```
+[**СКАЧАТЬ**](https://github.com/Ferius057/Spam-Comments-VK-User/releases/tag/1.1)
 
 ### Получение токен пользователя
 *(мы расмотрим вариант с полным доступом)*
