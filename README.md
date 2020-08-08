@@ -45,7 +45,7 @@ $ ./start.sh
 2. В адресной строке после **"?w=wallXXXXXX_"** будет id записи. | *XXXXXX - id страницы/группы*
 
 ## Version
-> *1.0*
+> *1.1*
 
 ## Links:
  - [Java](https://www.java.com)
