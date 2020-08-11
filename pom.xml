@@ -40,7 +40,7 @@
                     <programs>
                         <program>
                             <mainClass>Main</mainClass>
-                            <name>gifDeveloperBot</name>
+                            <name>Spam-Comments</name>
                         </program>
                     </programs>
                 </configuration>
