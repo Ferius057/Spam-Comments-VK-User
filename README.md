@@ -1,7 +1,7 @@
 # Spam Comments VK «‎от пользователя»‎
 Небольшой скрипт позволяющий спамить комментариями под записями VK. 
 ## Requirements
-- **Linux** or ~~Windows~~
+- **Linux** or Windows
 - Токен от страницы пользователя
 - Java
 - Maven
