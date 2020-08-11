@@ -100,7 +100,7 @@ public class ScriptRun extends Menu {
         /*--------------------------------------------------------------------------------*/
         if (comPieces == 0) {
             comPieces = 2100000000;
-        } else if (comPieces < 0 || comPieces > 2000000000) {
+        } else if (comPieces < 1 || comPieces > 2000000000) {
             System.out.println(COLOR_RED + "ERROR: Колличество комментариев маленькое или большое.");
             System.out.println(COLOR_BLACK + "--------------------------------------------------------------------------");
             start();
